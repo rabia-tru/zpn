@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Use the provided launch_image as the full-bleed foreground so the icon appears larger on the home screen -->
+    <foreground android:drawable="@drawable/launch_image" />
+    <!-- Keep a matching background color to the app scaffold background for a clean look -->
+    <background android:drawable="@color/launcher_background" />
+</adaptive-icon>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches the Flutter scaffold background (light purple) -->
+    <color name="launcher_background">#F6F3FC</color>
+</resources>
